@@ -16,7 +16,3 @@ In this work, we formalize AC and Tukey's lemma. We prove the equivalence betwee
 5. Proof_AC.v
   Proves AC based on Tukey's lemma.
 
-# Author
-
-Tianyu Sun. stycyj@bupt.edu.cn
-Wensheng Yu. wsyu@bupt.edu.cn
