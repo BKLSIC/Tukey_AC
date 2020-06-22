@@ -1,7 +1,7 @@
 # Tukey's Lemma and Axiom of Choice
 
 Axiom of Choice (AC) is an important axiom in axiomatic set theory and it has a wide range of applications in modern mathematics. 
-In this work, we formalize AC and Tukey's lemma. We prove the equivalence between them in Coq. The work is based on the``axiomatic set theory'' formal system that we developed.
+In this work, we formalize AC and Tukey's lemma. We prove the equivalence between them in Coq. 
 
 # Files and Modules
 
